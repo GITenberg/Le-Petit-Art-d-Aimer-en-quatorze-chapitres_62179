@@ -1,0 +1,52 @@
+_repo: Le-Petit-Art-d-Aimer-en-quatorze-chapitres_62179
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Métivet, Lucien-Marie-François
+    aliases:
+    - Metivet, Lucien-Marie-Francois
+    - Métivet, Lucien
+    birthdate: 1863
+    deathdate: 1932
+    gutenberg_agent_id: '51115'
+    url: http://www.gutenberg.org/2009/agents/51115
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Lucien_M%C3%A9tivet
+    - https://en.wikipedia.org/wiki/Lucien_M%C3%A9tivet
+creator:
+  author:
+    agent_name: Silvestre, Armand
+    aliases:
+    - Sylvestre, Armand
+    - Sylvestre, Paul Armand
+    - Silvestre, Paul-Armand
+    - Silvestre, A. (Armand)
+    birthdate: 1837
+    deathdate: 1901
+    gutenberg_agent_id: '4215'
+    url: http://www.gutenberg.org/2009/agents/4215
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Paul_Armand_Silvestre
+    - https://fr.wikipedia.org/wiki/Armand_Silvestre
+description: ''
+gutenberg_issued: '2020-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62179'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Love'
+- GITenberg
+tableOfContents: Du choix d'un amant -- Qui aime le plus -- Ce qu'il faut entendre
+  par le cœur -- Le jeu dangereux -- Faut-il être jaloux -- Des différentes façons
+  d'être belle -- Le bon parjure -- Ce qu'est la femme pour qui l'aime vraiment --
+  De la plastique en amour -- Subtilités passionnelles -- De l'illusion en amour --
+  Le trésor de la morale -- Valses sans musique -- Consolations.
+title: 'Le Petit Art d''Aimer
+
+  en quatorze chapitres'
+url: http://www.gutenberg.org/ebooks/62179
