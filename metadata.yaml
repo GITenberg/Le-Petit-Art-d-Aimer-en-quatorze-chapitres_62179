@@ -1,5 +1,5 @@
 _repo: Le-Petit-Art-d-Aimer-en-quatorze-chapitres_62179
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Métivet, Lucien-Marie-François
@@ -13,6 +13,9 @@ contributor:
     wikipedia:
     - https://fr.wikipedia.org/wiki/Lucien_M%C3%A9tivet
     - https://en.wikipedia.org/wiki/Lucien_M%C3%A9tivet
+covers:
+- cover_type: archival
+  image_path: 62179-h/images/cover.jpg
 creator:
   author:
     agent_name: Silvestre, Armand
@@ -29,6 +32,8 @@ creator:
     - https://en.wikipedia.org/wiki/Paul_Armand_Silvestre
     - https://fr.wikipedia.org/wiki/Armand_Silvestre
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62179#Le-Petit-Art-d-Aimer-en-quatorze-chapitres
 gutenberg_issued: '2020-05-20'
 gutenberg_type: Text
 identifiers:
